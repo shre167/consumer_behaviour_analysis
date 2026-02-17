@@ -1,4 +1,3 @@
-# consumer_behavious_analysis
 # Ecommerce Consumer Behavior Analysis 🛒
 
 ## Project Overview
